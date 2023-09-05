@@ -39,7 +39,8 @@ padding-top: 30px;
     }
     .form-body{
         height: 625px;
-         width: 390px;
+         width: 450px;
+         box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.1);
     }
 }
 @media(max-width:793px){
