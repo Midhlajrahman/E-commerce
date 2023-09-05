@@ -37,6 +37,10 @@ padding-top: 30px;
     .navbar-nav{
         background-color: radial-gradient(#fff, #ffd6d6);;
     }
+    .form-body{
+        height: 625px;
+    width: 438px;
+    }
 }
 @media(max-width:793px){
     .nav-link{
