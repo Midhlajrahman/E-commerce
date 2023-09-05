@@ -1,0 +1,46 @@
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background: radial-gradient(#fff, #ffd6d6);
+}
+.form-body{
+   height: 650px;
+   width: 700px;
+
+   margin: auto;
+   box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
+
+}
+.contact-head{
+ font-size: 22px;
+ font-weight: bold;
+padding-top: 30px;
+}
+.form-control{
+    height: 45px;
+
+}
+.form-control:hover{
+    border-color: #ff523b;;
+}
+.msg{
+    padding-bottom: 80px;
+}
+.btn:hover{
+    color: white;
+}
+@media(max-width:991px){
+  
+    .cart-img{
+        display: none;
+    }
+    .navbar-nav{
+        background-color: radial-gradient(#fff, #ffd6d6);;
+    }
+}
+@media(max-width:793px){
+    .nav-link{
+        color: white;
+    }
+    
+}
